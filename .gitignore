@@ -106,4 +106,4 @@ dist
 .tern-port
 
 /.idea
-/config/keys.js
+/config/dev.js

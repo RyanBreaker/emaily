@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Learning Express!",
   "main": "index.js",
   "engines": {
     "node": "12.4.0",
@@ -14,7 +14,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "passport": "^0.4.1"
   },
   "devDependencies": {
     "prettier": "^1.19.1"
